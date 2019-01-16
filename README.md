@@ -4,7 +4,7 @@
 
 <!--ts-->
   * [Introduction](#Introduction)
-  * [Training Schedule](#Training-Schedule)
+  * [Training Schedule Overview](#Training-Schedule-Overview)
     * [Day 1](#Day-1)
     * [Day 2](#Day-2)
   * [Planning and Installation Guides](Planning-and-Installation-Guides)
@@ -15,13 +15,15 @@
 
 The intent of this document is to serve as a structured reference for Anchore New Customer Training. This document will walkthrough an Anchore Overview, Concepts, and Planning. Following a solid planning of Anchore, the appropriate install guide will be selected for walkthrough. Once the installation has been completed successfully, Anchore customers will receive a walkthrough of the operational functions of Anchore.
 
-## Training Schedule
+## Training Schedule Overview
 
 This customer training is designed to be spread over 1-2 working days, with the majority of the first day being deticated to overview, planning and install. The second day (if necessary) will be reserved for Anchore training of users. 
 
 ### Day 1
 
 The primary objective of the first training session is educate the customer on all things Anchore. The assumption will be made that many are new to Anchore and must go through concepts, planning, and installation. At the end of Day 1 there should be a successful installation of Anchore. 
+
+[View Detailed Schedule](https://github.com/valancej/Anchore-Training-Guide/tree/master/day_1)
 
 - **10:00 - 11:00 AM (Hour 1) - Introductions**
     - Anchore and customer introductions. Develop a clear understanding of roles (who will be the Anchore power users).
@@ -48,7 +50,9 @@ The primary objective of the first training session is educate the customer on a
 
 ### Day 2
 
-The primary objective of the second training day is educate the customer on usage of Anchore. 
+The primary objective of the second training day is educate the customer on proper usage of Anchore. At the end of day 2, the customer should have a working installation of Anchore configured correctly, and know how to properly operate it. 
+
+[View Detailed Schedule](https://github.com/valancej/Anchore-Training-Guide/tree/master/day_2)
 
 - **10:00 - 10:30 AM (30 min 1) - Introductions**
     - Introduce topics for the day and address anything outstanding from the previous training session.
