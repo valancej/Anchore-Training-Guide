@@ -1,4 +1,4 @@
-# Anchore-Training-Guide
+# Anchore Training Guide
 
 ## Table of Contents
 
