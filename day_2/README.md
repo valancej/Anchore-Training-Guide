@@ -4,7 +4,7 @@
 
 ### Day 2
 
-The primary objective of the second training day is educate the customer on usage of Anchore. 
+The primary objective of the second training day is educate the customer on proper usage of Anchore. At the end of day 2, the customer should have a working installation of Anchore configured correctly, and know how to properly operate it. 
 
 - **10:00 - 10:30 AM (30 min 1) - Introductions**
     - Introduce topics for the day and address anything outstanding from the previous training session.

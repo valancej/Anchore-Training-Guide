@@ -1,7 +1,10 @@
-# Introduction to Anchore
+# Day 1 Detailed Schedule
 
-- Introductions on both the Anchore and customer side. 
-- Clear definition of customer roles defined. Who will be using Anchore?
+The primary objective of the first training session is educate the customer on all things Anchore. The assumption will be made that many are new to Anchore and must go through concepts, planning, and installation. At the end of Day 1 there should be a successful installation of Anchore. 
+
+- **Introduction**
+    - Introductions on both the Anchore and customer side. 
+    - Clear definition of customer roles defined. Who will be using Anchore?
 - **Anchore Overview**
     - [Anchore Engine Overview](https://anchore.freshdesk.com/support/solutions/articles/36000020381-anchore-engine-overview)
     - [Anchore Enterprise Overview](https://anchore.freshdesk.com/support/solutions/articles/36000098518-enterprise-service-overview-and-architecture)
