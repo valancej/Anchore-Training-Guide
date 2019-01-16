@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-!--ts-->
+<!--ts-->
   * [Introduction](#Introduction)
   * [Training Schedule](#Training-Schedule)
     * [Day 1](#Day-1)
