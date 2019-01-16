@@ -2,6 +2,8 @@
 
 ## Schedule
 
+See [detailed schedule](https://github.com/valancej/Anchore-Training-Guide/blob/master/day_1/schedule_detailed.md)
+
 ### Day 1
 
 The primary objective of the first training session is educate the customer on all things Anchore. The assumption will be made that many are new to Anchore and must go through concepts, planning, and installation. At the end of Day 1 there should be a successful installation of Anchore. 
