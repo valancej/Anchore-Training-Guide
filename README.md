@@ -7,6 +7,7 @@
   * [Training Schedule](#Training-Schedule)
     * [Day 1](#Day-1)
     * [Day 2](#Day-2)
+  * [Planning and Installation Guides](Planning-and-Installation-Guides)
 
 <!--te-->
 
@@ -77,3 +78,8 @@ The primary objective of the second training day is educate the customer on usag
     - Post-installation configuration tasks (if necessary).
     - Address any outstanding technical or non-technical questions from the past two training sessions.
     - Wrap up.
+
+## Planning and Installation Guides
+
+[Anchore Planning Guide](https://github.com/valancej/Anchore-Documentation/blob/master/docs/planning/planning-guide.md)
+[Anchore Installation Documentation](https://github.com/valancej/Anchore-Documentation)
