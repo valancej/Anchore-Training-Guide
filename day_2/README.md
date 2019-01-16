@@ -2,6 +2,8 @@
 
 ## Schedule
 
+iled schedule here: https://github.com/valancej/Anchore-Training-Guide/blob/master/day_2/schedule_detailed.md.
+
 ### Day 2
 
 The primary objective of the second training day is educate the customer on proper usage of Anchore. At the end of day 2, the customer should have a working installation of Anchore configured correctly, and know how to properly operate it. 
