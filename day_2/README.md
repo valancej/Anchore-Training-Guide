@@ -2,7 +2,7 @@
 
 ## Schedule
 
-iled schedule here: https://github.com/valancej/Anchore-Training-Guide/blob/master/day_2/schedule_detailed.md.
+See detailed schedule here: https://github.com/valancej/Anchore-Training-Guide/blob/master/day_2/schedule_detailed.md.
 
 ### Day 2
 
