@@ -23,7 +23,7 @@ This customer training is designed to be spread over 1-2 working days, with the 
 
 The primary objective of the first training session is educate the customer on all things Anchore. The assumption will be made that many are new to Anchore and must go through concepts, planning, and installation. At the end of Day 1 there should be a successful installation of Anchore. 
 
-[View Detailed Schedule](https://github.com/valancej/Anchore-Training-Guide/tree/master/day_1)
+[View Day 1 Directory](https://github.com/valancej/Anchore-Training-Guide/tree/master/day_1)
 
 - **10:00 - 11:00 AM (Hour 1) - Introductions**
     - Anchore and customer introductions. Develop a clear understanding of roles (who will be the Anchore power users).
@@ -52,7 +52,7 @@ The primary objective of the first training session is educate the customer on a
 
 The primary objective of the second training day is educate the customer on proper usage of Anchore. At the end of day 2, the customer should have a working installation of Anchore configured correctly, and know how to properly operate it. 
 
-[View Detailed Schedule](https://github.com/valancej/Anchore-Training-Guide/tree/master/day_2)
+[View Day 2 Directory](https://github.com/valancej/Anchore-Training-Guide/tree/master/day_2)
 
 - **10:00 - 10:30 AM (30 min 1) - Introductions**
     - Introduce topics for the day and address anything outstanding from the previous training session.
