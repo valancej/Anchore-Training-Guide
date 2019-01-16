@@ -81,5 +81,5 @@ The primary objective of the second training day is educate the customer on usag
 
 ## Planning and Installation Guides
 
-[Anchore Planning Guide](https://github.com/valancej/Anchore-Documentation/blob/master/docs/planning/planning-guide.md)
-[Anchore Installation Documentation](https://github.com/valancej/Anchore-Documentation)
+- [Anchore Planning Guide](https://github.com/valancej/Anchore-Documentation/blob/master/docs/planning/planning-guide.md)
+- [Anchore Installation Documentation](https://github.com/valancej/Anchore-Documentation)
