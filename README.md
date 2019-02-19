@@ -7,7 +7,7 @@
   * [Training Schedule Overview](#Training-Schedule-Overview)
     * [Day 1](#Day-1)
     * [Day 2](#Day-2)
-  * [Planning and Installation Guides](Planning-and-Installation-Guides)
+  * [Planning and Installation Guides](#Planning-and-Installation-Guides)
 
 <!--te-->
 
