@@ -1,0 +1,15 @@
+Content requested: 
+
+- Introduction to Anchore as a customer demonstration deck
+- Introduction to configuration of Anchore once there has been a successful installation deck
+ - This may include some kind of lab to follow along with
+ - How to configure a CLI, make common API calls, etc.
+ - How to configure a container registry
+
+- Introduction on Anchore policies deck
+ - This can include some of the information from the Anchore Policy Hub if it is a good fit.
+ - Ideally this can be supplemented with a lab walking through how to work with policies in Anchore via CLI, API, or UI
+ - Co-create policies specific to customer needs in lab format as well
+
+- Introduction to the UI once everything is complete (may not need a deck)
+- Troubleshooting how-to (not sure on the appropriate format for this)
