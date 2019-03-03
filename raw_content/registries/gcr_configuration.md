@@ -1,7 +1,4 @@
----
-title: "Working with Google Container Registry (GCR) Credentials"
-weight: 1
----
+## Working with Google Container Registry (GCR) Credentials
 
 When working with Google Container Registry it is recommended that you use JSON keys rather than the short lived access tokens.
 

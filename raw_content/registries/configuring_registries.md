@@ -1,7 +1,4 @@
----
-title: "Configuring Registries"
-weight: 1
----
+## Configuring Registries
 
 The Anchore Engine will attempt to download images from any registry without requiring further configuration.
 However if your registry requires authentication then the registry and corresponding credentials will need to be defined.
