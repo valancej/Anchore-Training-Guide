@@ -1,7 +1,4 @@
----
-title: "Working with Azure Registry Credentials"
-weight: 1
----
+## Working with Azure Registry Credentials
 
 To use an Azure Registry, you can configure Anchore to use either the admin credential(s) or a service principal. Refer to Azure documentation for differences and how to setup each.  When you've chosen a credential type, use the following to determine which registry command options correspond to each value for your credential type
 
