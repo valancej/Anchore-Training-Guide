@@ -14,7 +14,7 @@ A policy bundle is a single JSON document, composed of several parts:
 
 Example JSON for an empty bundle, showing the sections and top-level elements:
 
-```JSON
+```
 {
   "id": "default0,
   "version": "1_0",
@@ -146,7 +146,7 @@ Example image blacklist section:
 
 A complete bundle example with all sections containing data:
 
-```JSON
+```
 {
   "id": "default0,
   "version": "1_0",
