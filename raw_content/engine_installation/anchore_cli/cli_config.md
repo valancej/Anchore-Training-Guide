@@ -44,7 +44,7 @@ default:
         ANCHORE_CLI_URL: 'http://localhost:8228/v1'
 ```
 
-#### Order or Precedence
+### Order or Precedence
 
 The Anchore CLi will first look for configuration via command line parameters. If no command line parameters are passed then the environment is checked, finally the CLI will check for a credentials file.
 
