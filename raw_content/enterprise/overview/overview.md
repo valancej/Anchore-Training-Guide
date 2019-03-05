@@ -40,4 +40,3 @@ Contact support to request a trial license and get access to the containers requ
 The Anchore Engine helm chart for kubernetes now includes all the Enteprise components and can deploy a full system by setting a few simple feature flags in the chart and providing a secret for pulling the images from Docker Hub and the license content.
 
 
-
